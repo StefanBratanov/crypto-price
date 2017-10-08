@@ -1,0 +1,24 @@
+{
+  "pricesByExchange": [
+    {
+      "priceInGbp": 3120,
+      "priceInEur": 3620,
+      "priceInUsd": 4300,
+      "exchange": "Kraken"
+    },
+    {
+      "priceInGbp": 3130,
+      "priceInEur": 3624,
+      "priceInUsd": 4065,
+      "exchange": "Coinfloor"
+    },
+    {
+      "priceInGbp": 3140,
+      "priceInEur": 3663.99,
+      "priceInUsd": 4299.01,
+      "exchange": "Coinbase"
+    }
+  ],
+  "crypto": "BTC",
+  "updatedAt": "2017-10-01 17:43:32.191"
+}
